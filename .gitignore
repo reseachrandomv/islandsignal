@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+.env*.local
+*.png.shot
+screenshot-*.png
+*.docx
+*.pdf
+*.pptx
+tsconfig.tsbuildinfo
