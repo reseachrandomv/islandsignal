@@ -33,7 +33,7 @@ export default function Feed() {
 
   return (
     <div className="md:grid md:grid-cols-[1fr_300px] md:gap-6">
-      <section>
+      <section className="min-w-0">
         <div className="mb-4">
           <p className="text-xs font-semibold tracking-widest text-blurple-400">COMMUNITY UPDATES · TODAY</p>
           <h1 className="text-2xl sm:text-3xl font-extrabold mt-1">What’s happening near you?</h1>
